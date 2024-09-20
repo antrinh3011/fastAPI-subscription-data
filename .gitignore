@@ -1,0 +1,20 @@
+# Thư mục và tệp hệ thống
+.DS_Store
+Thumbs.db
+
+# Thư mục build và các tệp log
+build/
+*.log
+
+# Thư mục và tệp của Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Thư mục và tệp của Node.js
+node_modules/
+npm-debug.log
+
+# Các tệp cấu hình cá nhân
+.vscode/
+.venv/
