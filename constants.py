@@ -1,0 +1,6 @@
+DATABASE_USER = "root"
+DATABASE_PASSWORD = "Admin301188"
+DATABASE_HOST = "localhost"
+DATABASE_PORT = "3306"
+DATABASE_NAME = "keywords_subscription"
+DATABASE_NAME_ENVIRONMENT = "development"
